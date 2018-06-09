@@ -1,0 +1,11 @@
+{
+  "boats": [
+    {
+      "id": 389843,
+      "price": "35000",
+      "type": "sailboat",
+      "year": 1995,
+      "photoid":  "389843"        
+    }
+  ]
+}
