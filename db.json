@@ -2,10 +2,43 @@
   "boats": [
     {
       "id": 389843,
+      "name": "Beneateau Oceanis 321",
       "price": "35000",
       "type": "sailboat",
       "year": 1995,
-      "photoid":  "389843"        
+      "photoid": "389843"
+    },
+    {
+      "id": 389799,
+      "name": "Antaris Regenboog 18",
+      "price": "19900",
+      "type": "sportboat",
+      "year": 2008,
+      "photoid": "389799"
+    },
+    {
+      "id": 389789,
+      "name": "Babro Classic 12,60",
+      "price": "285000",
+      "type": "motorboat",
+      "year": 2007,
+      "photoid": "389789"
+    },
+    {
+      "id": 388832,
+      "name": "Seabob F5",
+      "price": "9923",
+      "type": "scooter",
+      "year": 2011,
+      "photoid": "388832"
+    },
+    {
+      "id": 389808,
+      "name": "LM 27",
+      "price": "11500",
+      "type": "sailboat",
+      "year": 1980,
+      "photoid": "389808"
     }
   ]
 }
