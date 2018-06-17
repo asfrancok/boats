@@ -7,7 +7,9 @@
       "oldprice": "36000",
       "type": "sailboat",
       "year": 1995,
-      "photoid": "389843"
+      "photoid": "389843",
+      "material": "polyester",
+      "brand": "beneteau"
     },
     {
       "id": 389799,
@@ -16,7 +18,9 @@
       "oldprice": "19000",
       "type": "sportboat",
       "year": 2008,
-      "photoid": "389799"
+      "photoid": "389799",
+      "material": "wood",
+      "brand": "antaris"
     },
     {
       "id": 389789,
@@ -25,7 +29,9 @@
       "oldprice": "280000",
       "type": "motorboat",
       "year": 2007,
-      "photoid": "389789"
+      "photoid": "389789",      
+      "material": "aluminium",
+      "brand": "barbo"
     },
     {
       "id": 388832,
@@ -34,7 +40,9 @@
       "oldprice": "10000",
       "type": "scooter",
       "year": 2011,
-      "photoid": "388832"
+      "photoid": "388832",
+      "material": "polyester",
+      "brand": "seabob"
     },
     {
       "id": 389808,
@@ -43,7 +51,9 @@
       "oldprice": "12000",
       "type": "sailboat",
       "year": 1980,
-      "photoid": "389808"
+      "photoid": "389808",
+      "material": "steel",
+      "brand": "admiral"
     }
   ]
 }
